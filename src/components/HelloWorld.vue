@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="hello container">
     <br /><br /><br />
     <!-- heading text -->
     <h1 class="text-center display-4">Services Offered</h1>
@@ -10,7 +10,7 @@
           <br /><br />
           <div class="card hover-shadow">
             <i class="fab icon fa-connectdevelop"></i>
-            <h2>Web Design</h2>
+            <h2>Our Frontend</h2>
             <hr class="length" />
             <ul>
               <li>Vue.js</li> <br />
@@ -46,7 +46,7 @@
           <br /><br />
           <div class="card hover-shadow">
             <i class="far icon fa-calendar-alt"></i>
-            <h2>Scheduling</h2>
+            <h2>Schedule Service</h2>
             <hr class="length" />
             <ul>
               <li>Consumer Booking</li>
@@ -110,6 +110,7 @@
       </div>
     </div>
     <!-- end of content -->
+    <br /><br /><br />
   </div>
 </template>
 
@@ -137,5 +138,8 @@ li {
 }
 a {
   color: #42b983;
+}
+.hello {
+  font-family: 'Quicksand', sans-serif!important;
 }
 </style>
