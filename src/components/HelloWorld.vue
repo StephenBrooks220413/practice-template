@@ -31,9 +31,9 @@
             <h2>Maintenance</h2>
             <hr class="length" />
             <ul>
-              <li>Fix Vulnerabilities</li>
-              <li>Manage Hosting</li>
-              <li>Secure Messaging</li>
+              <li>Fix Vulnerabilities</li> <br />
+              <li>Manage Hosting</li> <br />
+              <li>Secure Messaging</li> <br />
               <li>Fix Broken Pages</li>
             </ul>
             <br /><br />
