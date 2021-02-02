@@ -1,0 +1,70 @@
+.view {
+    background: url("https://mdbootstrap.com/img/Photos/Others/img (52).jpg")
+      no-repeat center center;
+    background-size: cover;
+    height: 100%;
+  }
+  .navbar i {
+    cursor: pointer;
+    color: white;
+  }
+
+.max {
+	max-height: 470px;
+}
+
+li {
+	list-style: none;
+	font-size: 22px;
+}
+
+.pic {
+  max-height: 500px!important;
+}
+
+.icon {
+  font-size: 3em!important;
+}
+
+.icon-2 {
+  font-size: 2.4em!important;
+  letter-spacing: 34px;
+}
+
+.area {
+  background-color: lightgrey!important;
+  opacity: 0.4;
+}
+
+.form {
+  max-width: 550px!important;
+}
+
+.content-bg {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.intro { 
+  background: url(https://images.unsplash.com/photo-1522791194246-7129e9750305?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 60vh;
+}
+
+.intro-text {
+	position: absolute;
+	top: 26%;
+	left: 30px;
+	font-weight: bolder!important;
+	text-shadow: 10px 11px 9px grey;
+	opacity: 0.7;
+}
+
+.col-md-4 i {
+	font-size: 26px;
+	letter-spacing: 12px;
+}
